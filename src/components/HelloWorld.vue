@@ -130,7 +130,7 @@
           <!--Grid column-->
           <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
             <h5 class="text-uppercase" style="font-family: 'Anton', sans-serif;"> CV </h5>
-            <a style="display:block; text-align:center;font-family: 'Montserrat Medium';color:blue" href="<%= BASE_URL %>CV.pdf" download> Télécharger</a>
+            <a style="display:block; text-align:center;font-family: 'Montserrat Medium';color:blue" href="https://drive.google.com/file/d/1xY2N5zBVWDxmm6zdKX-2jpsxN_zIl6Nr/view?usp=sharing">  Télécharger</a>
           </div>
           <!--Grid column-->
 
@@ -281,7 +281,7 @@
         <p style="margin:5%;text-align: center; font-family: 'Montserrat Light'"> Charte graphique d'un site web d'une association permettant aux malades du diabète de manger le plus sainement possible.  </p>
         <p style="margin:5%;text-align: center; font-family: 'Montserrat Light'"> Logiciels utilisés : Canva / Adobe Illustrator  </p>
         <p style="margin:5%;text-align: center; font-family: 'Montserrat Light'"> Année : 2020 </p>
-        <a class="decouvrir" style="display:block; text-align:center;color:white;"  href="<%= BASE_URL %>charte.pdf" download>Découvrir</a>
+        <a class="decouvrir" style="display:block; text-align:center;color:white;"  href="https://drive.google.com/file/d/16OVroymK-D-DtTL9z77YDRjHn8LH_-nO/view?usp=sharing" >Découvrir</a>
 
       </div>
     </div>

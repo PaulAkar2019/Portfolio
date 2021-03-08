@@ -31,7 +31,7 @@
           <!--Grid column-->
           <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
             <h5 class="text-uppercase" style="font-family: 'Anton', sans-serif;"> CV </h5>
-            <a style="display:block; text-align:center;font-family: 'Montserrat Medium'; color:#00EDFF"  href="img/CV.pdf" title="Pdf">Télécharger</a>
+            <a style="display:block; text-align:center;font-family: 'Montserrat Medium'; color:#00EDFF"  href="https://drive.google.com/file/d/1xY2N5zBVWDxmm6zdKX-2jpsxN_zIl6Nr/view?usp=sharing" >Télécharger</a>
           </div>
           <!--Grid column-->
 
